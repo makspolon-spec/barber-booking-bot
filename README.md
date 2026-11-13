@@ -1,3 +1,4 @@
+
 # Barber Booking Bot
 
 Telegram-бот для записи клиентов к барберу. Клиент выбирает услугу и время прямо в Telegram, а мастер сразу получает заявку в личные сообщения.
@@ -33,6 +34,11 @@ Telegram-бот для записи клиентов к барберу. Клие
 Настройка под конкретный бизнес занимает 1-2 часа.
 
 ## Скриншоты
+<img width="500" lt="Знімок екрана 2026-11-13 154609" src="https://github.com/user-attachments/assets/86481173-2ec3-4ad3-a8c6-36e85faffa43" />
+
+<img width="500" alt="Знімок екрана 2026-11-13 154355" src="https://github.com/user-attachments/assets/69659825-42cf-4a2c-a8e9-d6973eca359e" />
+
+<img width="500" alt="Знімок екрана 2026-11-13 154704" src="https://github.com/user-attachments/assets/2c75b42f-2311-495e-93fd-5beaee82e08f" />
 
 ## Автор
 
