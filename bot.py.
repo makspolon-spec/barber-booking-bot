@@ -1,4 +1,5 @@
-from google.colab import userdata
+from google.colab import os.environ
+import asyncio, os
 from aiogram import Bot, Dispatcher, F
 from aiogram.filters import CommandStart, Command
 from aiogram.fsm.context import FSMContext
@@ -95,3 +96,5 @@ async def contacts(message: Message):
     await message.answer("Адрес: ул. Примерная, 1\nТелефон: +380 00 000 00 00\nРаботаем: 10:00-20:00")
 
 await dp.start_polling(bot)
+
+main()
