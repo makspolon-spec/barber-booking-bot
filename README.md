@@ -36,6 +36,9 @@ Telegram-бот онлайн-записи для барбера. Клиент в
 Настройка под конкретный бизнес занимает 1-2 часа.
 
 ## Скриншоты
+<img width="500" alt="Знімок екрана 2026-11-13 154704" src="https://github.com/user-attachments/assets/eb82ac9d-cc79-4fbc-bc5d-6be240995ed9" />
+<img width="500" alt="Знімок екрана 2026-11-13 154609" src="https://github.com/user-attachments/assets/bfcf6c2b-fdc7-4ebf-9872-4277536c7e26" />
+<img width="500" alt="Знімок екрана 2026-11-13 154355" src="https://github.com/user-attachments/assets/4cfa5d6a-f095-4718-a98e-27603764e769" />
 
 ## Автор
 
